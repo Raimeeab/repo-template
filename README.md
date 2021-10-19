@@ -1,7 +1,7 @@
-<img alt="GitHub License" src="https://img.shields.io/apm/l/vim-mode">  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Raimeeab/<reponame>">  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/pulls/detail/state/Raimeeab/<reponame>">  <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed-raw/Raimeeab/<reponame>">  <img alt="Branch Check Main" src="https://img.shields.io/github/checks-status/RaimeeAb/<reponame>/main">  <img alt="GitHub Commit Activity" src="https://img.shields.io/github/commit-activity/w/Raimeeab/<reponame>">
+<img alt="GitHub Followers" src="https://img.shields.io/github/followers/Raimeeab"> <img alt="GitHub License" src="https://img.shields.io/apm/l/vim-mode">  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Raimeeab/<reponame>">  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/pulls/detail/state/Raimeeab/<reponame>">  <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed-raw/Raimeeab/<reponame>">  <img alt="Branch Check Main" src="https://img.shields.io/github/checks-status/RaimeeAb/<reponame>/main">  <img alt="GitHub Commit Activity" src="https://img.shields.io/github/commit-activity/w/Raimeeab/<reponame>">
 
 
-# ArtHouse Project
+# PROJECT NAME
 ---
 
 ### Demo
