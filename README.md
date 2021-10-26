@@ -3,35 +3,45 @@
 
 # PROJECT NAME
 ---
+## Table of Content 
+
+* [Description](#description)
+* [Technlogies](#technologies)
+* [Usage](#usage)
+* [Installation](#installation)
+* [Contributors](#contributors)
+* [License](#license)
+* [Contribution](#contribution)
+* [Questions](#questions)
 
 ### Demo
 ![main-demo]()
 
-## Description
+<a name="description"></a>
+## 📝 Description
 
 Link to the [site]()
 
-## User Story 
+<a name="technologies"></a>
+## 🕹 Technologies used 
 
 
-## Technologies used 
-
-- JavaScript
-- jQuery 
-- CSS
-- HTML 5
+<a name="installation"></a>
+## ⚙️ Installation 
 
 
-## Usage 
+<a name="usage"></a>
+## 🖥 Usage 
 
 
-
-## Contributors
+<a name="contributors"></a>
+## 👥 Contributors
 
 *[Raimee Abbassi](https://github.com/Raimeeab)* <br>
 *The Univserity of Sydney | Trilogy Education Services* <br>
 
-## License 
+<a name="license"></a>
+## 🔖 License
 
 MIT License
 Copyright (c) [2021] [<reponame>]
@@ -39,3 +49,14 @@ Permission is herby granted, free of charge, to any person obtaining a copy of t
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MECHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OTHER DEALINGS IN THE SOFTWARE.  
+
+---
+<a name="contribution"></a>
+## 🤝 How to Contribute
+
+For information on how to contribute, please follow the guidlelines listed in [Contributor Covenant](https://www.contributor-covenant.org/).
+
+<a name="questions"></a>
+## ❓ Questions
+If you have any questions, contact me via [email](raimee.abbassi@gmail.com). You can also find more of my work [here](https://github.com/Raimeeab).
+
